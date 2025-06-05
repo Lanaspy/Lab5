@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSPP_lab4", "TSPP_lab4\TSPP_lab4.csproj", "{1B902403-0C63-4433-A257-D54B5C4BE0B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B902403-0C63-4433-A257-D54B5C4BE0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B902403-0C63-4433-A257-D54B5C4BE0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B902403-0C63-4433-A257-D54B5C4BE0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B902403-0C63-4433-A257-D54B5C4BE0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A818414A-720E-481E-B43D-8E6657F1A8E1}
+	EndGlobalSection
+EndGlobal

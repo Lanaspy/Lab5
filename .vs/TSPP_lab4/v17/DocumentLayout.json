@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klient\\source\\repos\\TSPP_lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B902403-0C63-4433-A257-D54B5C4BE0B2}|TSPP_lab4\\TSPP_lab4.csproj|c:\\users\\klient\\source\\repos\\tspp_lab4\\tspp_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B902403-0C63-4433-A257-D54B5C4BE0B2}|TSPP_lab4\\TSPP_lab4.csproj|solutionrelative:tspp_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klient\\source\\repos\\TSPP_lab4\\TSPP_lab4\\Program.cs",
+              "RelativeDocumentMoniker": "TSPP_lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\klient\\source\\repos\\TSPP_lab4\\TSPP_lab4\\Program.cs",
+              "RelativeToolTip": "TSPP_lab4\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:45:35.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
